@@ -8,5 +8,10 @@ public class Main
 	}
 	}
 
+	void getAge()
+	{
+		System.out.print("Age ="+ 25);
+
+	}	
 
 }
